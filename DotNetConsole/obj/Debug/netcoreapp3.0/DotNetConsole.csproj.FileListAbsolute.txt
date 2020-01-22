@@ -1,0 +1,11 @@
+/Users/evali/Desktop/src/DotNetConsole/bin/Debug/netcoreapp3.0/DotNetConsole
+/Users/evali/Desktop/src/DotNetConsole/bin/Debug/netcoreapp3.0/DotNetConsole.deps.json
+/Users/evali/Desktop/src/DotNetConsole/bin/Debug/netcoreapp3.0/DotNetConsole.runtimeconfig.json
+/Users/evali/Desktop/src/DotNetConsole/bin/Debug/netcoreapp3.0/DotNetConsole.runtimeconfig.dev.json
+/Users/evali/Desktop/src/DotNetConsole/bin/Debug/netcoreapp3.0/DotNetConsole.dll
+/Users/evali/Desktop/src/DotNetConsole/bin/Debug/netcoreapp3.0/DotNetConsole.pdb
+/Users/evali/Desktop/src/DotNetConsole/obj/Debug/netcoreapp3.0/DotNetConsole.csprojAssemblyReference.cache
+/Users/evali/Desktop/src/DotNetConsole/obj/Debug/netcoreapp3.0/DotNetConsole.AssemblyInfoInputs.cache
+/Users/evali/Desktop/src/DotNetConsole/obj/Debug/netcoreapp3.0/DotNetConsole.AssemblyInfo.cs
+/Users/evali/Desktop/src/DotNetConsole/obj/Debug/netcoreapp3.0/DotNetConsole.dll
+/Users/evali/Desktop/src/DotNetConsole/obj/Debug/netcoreapp3.0/DotNetConsole.pdb
